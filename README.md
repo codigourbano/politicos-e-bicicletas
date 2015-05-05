@@ -6,8 +6,8 @@ Uma referência sobre posicionamento de políticos a respeito do uso de biciclet
 
 Político  | Partido | Posicionamento 
 --------- | -------- | ------- | -----
-[Político 1](#politico-1)  | PTA | A favor
-[Político 2](#politico-2)  | PTA | Contra
+[Político 1](#político-1)  | PTA | A favor
+[Político 2](#político-2)  | PTA | Contra
 
 ## Posicionamento
 
