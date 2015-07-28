@@ -7,13 +7,12 @@ Posicionamentos públicos a respeito do uso de bicicletas como meio de transport
 
 Político  | Partido | Posicionamento 
 --------- | -------- | ------- | -----
-[Gilson Barreto](#Gilson-Barreto) | ![foto de PSDB]  (http://codigourbano.org/wp-content/uploads/2015/07/psdb.png) | contra :no_entry_sign:
+[Gilson Barreto](#Gilson Barreto) | ![foto de PSDB]  (http://codigourbano.org/wp-content/uploads/2015/07/psdb.png) | contra :no_entry_sign:
 [Político 2](#político-2)  | PTA | a favor :bike:
 
 ## Posicionamento
 
-O Prefeito, quando acorda, se pergunta: “Para quem vou fazer uma maldade nesta semana, neste mês?” - e começa a investir em algo. Somos todos a favor das ciclofaixas ou das ciclovias. Somos a favor da modalidade. Agora, passar uma ciclofaixa até dentro de banheiros! É triste! O Sr. Prefeito não tem ideia do desserviço que Prefeitura do Município de São Paulo está prestando à Cidade. Pega alguns locais onde há comércio local, mas não é para ajudar o comerciante, não. Os munícipes precisam parar o carro para entrar nas lojas, comprar algo do dia a dia, porque, quando precisam de compras maiores, vão aos shoppings, aos supermercados, que é distante, gastam gasolina, pegam congestionamento. Mas agora se está colocando faixa de bicicleta na frente do pequeno comércio, e as pessoas não podem parar o carro senão serão autuadas com multa no valor de mil reais. 
-
+dasdasdasdsadasdasdsa
 ### Gilson Barreto
 
 ![foto de Gilson Barreto](http://codigourbano.org/wp-content/uploads/2015/07/gilson-barreto1.jpg) 
