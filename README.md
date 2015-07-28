@@ -1,15 +1,13 @@
 # políticos & bicicletas
 
 Posicionamentos públicos a respeito do uso de bicicletas como meio de transporte na construção de políticas públicas de mobilidade. Monitoramento independente feito pelo Código Urbano http://codigourbano.org a partir de documentos e informações públicas, incluindo levantamentos feitos por Kleber Tadashi e compartilhados na lista da http://bicicletada.org. 
-<a name="teste">teste</a>
-
 
 
 ## Índice
 
 Político  | Partido | Posicionamento 
 --------- | -------- | ------- | -----
-[Gilson Barreto]  | PSDB | contra
+<a href="#Gilson_Barreto">Gilson Barreto</a> | PSDB | contra :confused:
 [Político 2](#político-2)  | PTA | Contra
 
 ## Posicionamento
@@ -21,7 +19,8 @@ Apesar de em teoria se declarar "a favor da ciclofaixas e ciclovias", o vereador
 
 > No Parque São Rafael habitam mais ou menos cinco mil famílias. Fizeram um abaixo-assinado, que foi entregue ao Sr. Prefeito e ao Sr. Secretário de Transportes, 2.200 assinaturas, pedindo para não ser instalada uma ciclofaixa na Av. Baronesa de Muritiba. Esse abaixo-assinado foi feito para salvar o bairro, que está confinado na divisa com Mauá e Santo André; não tem quase nada. É só comércio local. As pessoas utilizam o carro para ir até a avenida por questão de segurança ou mobilidade, ir ao posto colocar gasolina, e param ali. Mas não podem mais. O microempresário investe seu dinheiro, sacrifica a família, paga a conta do Governo e ainda é o marginal dentro do processo. Precisamos mudar isso. É preciso coerência. É preciso administrar a Cidade também com o coração, saber a realidade das pessoas, principalmente das mais simples, do dia a dia. Se o cidadão vai ao boteco é porque, às vezes, vendem parcelado, vendem fiado, essa é a realidade. Ele vai à padaria e não pode parar porque tem lá um riscado de guache. É muita maldade. (...)".
 
-<a href="#teste">teste</a>
+<a name="teste">teste</a>
+
 
 ### Político 2
 
