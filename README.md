@@ -7,7 +7,7 @@ Posicionamentos públicos a respeito do uso de bicicletas como meio de transport
 
 Político  | Partido | Posicionamento 
 --------- | -------- | ------- | -----
-<a href="#Gilson_Barreto">Gilson Barreto</a> | PSDB | contra :confused:
+<a href="#Gilson_Barreto">Gilson Barreto</a> | ![foto de PSDB] PSDB (http://codigourbano.org/wp-content/uploads/2015/07/psdb.png) | contra :confused:
 [Político 2](#político-2)  | PTA | Contra
 
 ## Posicionamento
