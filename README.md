@@ -12,7 +12,7 @@ Político  | Partido | Posicionamento
 [Político 3](#político-3)  | PTA | a favor :bike:
 [Gilberto Natalini](#gilberto-natalini-pv)  | ![foto de PV](http://codigourbano.org/wp-content/uploads/2015/07/pv.png) | ? :bike: :no_entry_sign:
 [Gilson Barreto](#gilson-barreto-psdb) | ![foto de PSDB]  (http://codigourbano.org/wp-content/uploads/2015/07/psdb.png) | contra :no_entry_sign:
-[José Police Neto](#josé-police-beto-psd)  | ![foto de PSD](http://codigourbano.org/wp-content/uploads/2015/07/psd.png) | a favor :bike:
+[José Police Neto](#josé-police-neto-psd)  | ![foto de PSD](http://codigourbano.org/wp-content/uploads/2015/07/psd.png) | ? :bike: :no_entry_sign:
 [Mario Covas Neto](#mario-covas-neto-psdb)  | ![foto de PSDB]  (http://codigourbano.org/wp-content/uploads/2015/07/psdb.png)| contra :no_entry_sign:
 [Político 3](#político-3)  | PTA | a favor :bike:
 ## Posicionamento
