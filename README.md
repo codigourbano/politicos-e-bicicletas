@@ -13,7 +13,7 @@ Político  | Partido | Posicionamento
 [Político 3](#político-3)  | PTA | a favor :bike:
 [Gilson Barreto](#gilson-barreto-psdb) | ![foto de PSDB]  (http://codigourbano.org/wp-content/uploads/2015/07/psdb.png) | contra :no_entry_sign:
 [José Police Neto](#josé-police-beto-psd)  | ![foto de PSD](http://codigourbano.org/wp-content/uploads/2015/07/psd.png) | a favor :bike:
-[Político 2](#político-2)  | PTA | a favor :bike:
+[Mario Covas Neto](#mario-covas-neto-psdb)  | ![foto de PSDB]  (http://codigourbano.org/wp-content/uploads/2015/07/psdb.png)| contra :no_entry_sign:
 [Político 3](#político-3)  | PTA | a favor :bike:
 ## Posicionamento
 Pronunciamentos e posicionamentos públicos de políticos relacionados ao uso de bicicletas em São Paulo. Se você tem contribuições, por favor, escreva para contato@codigourbano.org
@@ -36,9 +36,11 @@ que pintaram de vermelho até dentro do banheiro. Dizem que não podem nem atrav
 Descrição do posicionamento, com links.
 
 
-### Político 2
+### Mario Covas Neto (PSDB)
 
-Descrição do posicionamento, com links.
+Defendeu a abertura de uma Comissão Parlamentar de Inquérito para investigar as ciclovias de São Paulo. Alega ser a favor do ciclismo, mas tem se posicionado reiteradamente contra a implementação de infraestrutura para bicicletas e questiona até mesmo o seu uso como alternativa de transporte, salvo "nas periferias". Em discurso na Câmara dos Vereadores em 5 de março de 2015, cuja íntegra está disponível a partir da página 75 da edição de 5 de março do [Diário Oficial da Cidade de São Paulo](http://diariooficial.imprensaoficial.com.br/nav_cidade/index.asp?c=1&e=20150305&p=1&clipID=21PTLDI1ISVT9e8GITG6S9S7L8I) afirmou o seguinte:
+
+>"(...). Afinal, quanto a ser usado como meio de transporte, acredito ser inviável em diversas áreas de São Paulo, diante da topografia. A bicicleta é um veículo individual e não coletivo, portanto vai à contramão da ideia de privilegiar o coletivo sobre o individual. Eu não sou contra as ciclofaixas em si, mas sim contra a forma como vêm sendo oferecidas. Como opção de lazer, nos fins de semana, quando o trânsito na Capital é reduzido e as pessoas têm mais tempo e condições de andar de bicicleta, são de fato extremamente úteis. Também nas periferias elas podem funcionar, aí, sim, como meio de transporte.(...)"
 
 ### Político 3
 
