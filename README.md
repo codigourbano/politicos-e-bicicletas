@@ -10,13 +10,19 @@ Político  | Partido | Posicionamento
 [Político 3](#político-3)  | PTA | a favor :bike:
 [Político 3](#político-3)  | PTA | a favor :bike:
 [Político 3](#político-3)  | PTA | a favor :bike:
-[Político 3](#político-3)  | PTA | a favor :bike:
+[Gilberto Natalini](#gilberto-natalini-pv)  | ![foto de PV](http://codigourbano.org/wp-content/uploads/2015/07/pv.png) | ? :bike: :no_entry_sign:
 [Gilson Barreto](#gilson-barreto-psdb) | ![foto de PSDB]  (http://codigourbano.org/wp-content/uploads/2015/07/psdb.png) | contra :no_entry_sign:
 [José Police Neto](#josé-police-beto-psd)  | ![foto de PSD](http://codigourbano.org/wp-content/uploads/2015/07/psd.png) | a favor :bike:
 [Mario Covas Neto](#mario-covas-neto-psdb)  | ![foto de PSDB]  (http://codigourbano.org/wp-content/uploads/2015/07/psdb.png)| contra :no_entry_sign:
 [Político 3](#político-3)  | PTA | a favor :bike:
 ## Posicionamento
 Pronunciamentos e posicionamentos públicos de políticos relacionados ao uso de bicicletas em São Paulo. Se você tem contribuições, por favor, escreva para contato@codigourbano.org
+
+### Gilberto Natalini (PV)
+
+![foto de Gilberto Natalini](http://codigourbano.org/wp-content/uploads/2015/07/natalini.jpg) 
+
+Em discurso na Câmara dos Vereadores em 5 de março de 2015, cuja íntegra está disponível a partir da página 76 da edição de 5 de março do [Diário Oficial da Cidade de São Paulo](http://diariooficial.imprensaoficial.com.br/nav_cidade/index.asp?c=1&e=20150305&p=1&clipID=21PTLDI1ISVT9e8GITG6S9S7L8I), questionou o custo da instalação de ciclovias em São Paulo, afirmou que pretende investigar a fundo como os recursos estão sendo gastos e disse que conversou com o presidente do Tribunal de Contas sobre o tema.
 
 ### Gilson Barreto (PSDB)
 
