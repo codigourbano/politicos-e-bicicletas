@@ -74,21 +74,41 @@ Sem informações até o momento.
 
 ### Adilson Amadeu (PTB)
 ![foto de Adilson Amadeu](http://codigourbano.org/wp-content/uploads/2015/07/adilson-amadeu.jpg) 
+
 Sem informações até o momento. 
 
 ### Adolfo Quintas (PSDB)
 ![foto de Adolfo Quintas](http://codigourbano.org/wp-content/uploads/2015/07/adolfo-quintas.jpg) 
+
 Sem informações até o momento. 
 
 ### Alessandro Guedes (PT)
 ![foto de Alessandro Guedes](http://codigourbano.org/wp-content/uploads/2015/07/alessandro-guedes.jpg) 
+
 Sem informações até o momento. 
 
 ### Alfredinho (PT)
 ![foto de Alfredinho](http://codigourbano.org/wp-content/uploads/2015/07/alfredinho.jpg) 
+
 Sem informações até o momento. 
 
+### Andrea Matarazzo (PSDB)
 
+![foto de Andrea Matarazzo](http://codigourbano.org/wp-content/uploads/2015/07/andrea-matarazzo.jpg) 
+
+Sem informações até o momento. 
+
+### Anibal de Freitas (PSDB)
+
+![foto de Anibal de Freitas](http://codigourbano.org/wp-content/uploads/2015/07/anibal-de-freitas.jpg) 
+
+Sem informações até o momento. 
+
+### Antonio Donato (PT)
+
+![foto de Alfredinho](http://codigourbano.org/wp-content/uploads/2015/07/alfredinho.jpg) 
+
+Sem informações até o momento.
 ### Político 3
 Sem informações até o momento. 
 
