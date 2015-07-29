@@ -13,7 +13,7 @@ Político  | Partido | Posicionamento
 ## Posicionamento
 
 dasdasdasdsadasdasdsa
-### Gilson Barreto
+### Gilson-Barreto (PSDB)
 
 ![foto de Gilson Barreto](http://codigourbano.org/wp-content/uploads/2015/07/gilson-barreto1.jpg) 
 
