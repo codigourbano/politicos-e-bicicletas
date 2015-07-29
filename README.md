@@ -11,7 +11,7 @@ Político  | Partido | Posicionamento
 [Político 3](#político-3)  | PTA | a favor :bike:
 [Político 3](#político-3)  | PTA | a favor :bike:
 [Político 3](#político-3)  | PTA | a favor :bike:
-[Gilson Barreto](#Gilson-Barreto) | ![foto de PSDB]  (http://codigourbano.org/wp-content/uploads/2015/07/psdb.png) | contra :no_entry_sign:
+[Gilson Barreto](#gilson-barreto) | ![foto de PSDB]  (http://codigourbano.org/wp-content/uploads/2015/07/psdb.png) | contra :no_entry_sign:
 [José Police Neto](#José-Police-Neto)  | ![foto de PSD](http://codigourbano.org/wp-content/uploads/2015/07/psd.png) | a favor :bike:
 [Político 2](#político-2)  | PTA | a favor :bike:
 [Político 3](#político-3)  | PTA | a favor :bike:
