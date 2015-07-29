@@ -7,13 +7,13 @@ Posicionamentos públicos a respeito do uso de bicicletas como meio de transport
 
 Político  | Partido | Posicionamento 
 --------- | -------- | ------- | -----
-[Gilson Barreto](#Gilson Barreto) | ![foto de PSDB]  (http://codigourbano.org/wp-content/uploads/2015/07/psdb.png) | contra :no_entry_sign:
+[Gilson Barreto](#Gilson-Barreto) | ![foto de PSDB]  (http://codigourbano.org/wp-content/uploads/2015/07/psdb.png) | contra :no_entry_sign:
 [Político 2](#político-2)  | PTA | a favor :bike:
-
+[Político 3](#político-3)  | PTA | a favor :bike:
 ## Posicionamento
 
 dasdasdasdsadasdasdsa
-### Gilson-Barreto (PSDB)
+### Gilson Barreto (PSDB)
 
 ![foto de Gilson Barreto](http://codigourbano.org/wp-content/uploads/2015/07/gilson-barreto1.jpg) 
 
@@ -29,3 +29,8 @@ Apesar de em teoria se declarar "a favor da ciclofaixas e ciclovias", o vereador
 ### Político 2
 
 Descrição do posicionamento, com links.
+
+### Político 3
+
+Descrição do posicionamento, com links.
+
