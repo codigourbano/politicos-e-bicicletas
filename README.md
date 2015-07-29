@@ -8,24 +8,24 @@ Posicionamentos públicos dos vereadores de São Paulo a respeito do uso de bici
 Político  | Partido | Posicionamento 
 --------- | -------- | ------- | -----
 [Abou Anni](#abou-anni-pv)  |![foto de PV](http://codigourbano.org/wp-content/uploads/2015/07/pv.png) | ? :bike: :no_entry_sign:
-[Político 3](#político-3)  | PTA | ? :bike: :no_entry_sign:
-[Político 3](#político-3)  | PTA | ? :bike: :no_entry_sign:
-[Político 3](#político-3)  | PTA | ? :bike: :no_entry_sign:
-[Político 3](#político-3)  | PTA | ? :bike: :no_entry_sign:
-[Político 3](#político-3)  | PTA | ? :bike: :no_entry_sign:
-[Político 3](#político-3)  | PTA | ? :bike: :no_entry_sign:
-[Político 3](#político-3)  | PTA | ? :bike: :no_entry_sign:
-[Político 3](#político-3)  | PTA | ? :bike: :no_entry_sign:
-[Político 3](#político-3)  | PTA | ? :bike: :no_entry_sign:
-[Político 3](#político-3)  | PTA | ? :bike: :no_entry_sign:
-[Político 3](#político-3)  | PTA | ? :bike: :no_entry_sign:
-[Político 3](#político-3)  | PTA | ? :bike: :no_entry_sign:
-[Político 3](#político-3)  | PTA | ? :bike: :no_entry_sign:
-[Político 3](#político-3)  | PTA | ? :bike: :no_entry_sign:
-[Político 3](#político-3)  | PTA | ? :bike: :no_entry_sign:
-[Político 3](#político-3)  | PTA | ? :bike: :no_entry_sign:
-[Político 3](#político-3)  | PTA | ? :bike: :no_entry_sign:
-[Político 3](#político-3)  | PTA | ? :bike: :no_entry_sign:
+[Adilson Amadeu](#adilson-amadeu-pdt)  | PTA | ? :bike: :no_entry_sign:
+[Adolfo Quintas](#adolfo-quintas-psdb)  | PTA | ? :bike: :no_entry_sign:
+[Alessandro Guedes](#alessandro-guedes-pt)  | PTA | ? :bike: :no_entry_sign:
+[Alfredinho](#alfredinho-pt)  | PTA | ? :bike: :no_entry_sign:
+[Andrea Matarazzo](#andrea-matarazzo-psdb)  | PTA | contra :no_entry_sign:
+[Anibal de Freitas](#anibal-de-freitas-psdb)  | PTA | ? :bike: :no_entry_sign:
+[Antonio Donato](#antonio-donato-pt)  | PTA | ? :bike: :no_entry_sign:
+[Ari Friedenbach](#ari-friedenbach-pros)  | PTA | ? :bike: :no_entry_sign:
+[Arselino Tatto](#arselino-tatto-pt)  | PTA | ? :bike: :no_entry_sign:
+[Atilio Francisco](#atilio-francisco-prb)  | PTA | ? :bike: :no_entry_sign:
+[Aurélio Miguel](#aurélio-miguel-pr)  | PTA | ? :bike: :no_entry_sign:
+[Aurélio Nomura](#aurélio-nomura-psdb)  | PTA | ? :bike: :no_entry_sign:
+[Calvo](#calvo-pmdb)  | PTA | ? :bike: :no_entry_sign:
+[Claudinho de Souza](#claudinho-de-souza-psdb)  | PTA | ? :bike: :no_entry_sign:
+[Conte Lopes](#conte-lopes-ptb)  | PTA | ? :bike: :no_entry_sign:
+[Dalton Silvano](#dalton-silvano-pv)  | PTA | ? :bike: :no_entry_sign:
+[David Soares](#david-soares-psd)  | PTA | ? :bike: :no_entry_sign:
+[Edir Salres](#edir-sales-psd)  | PTA | ? :bike: :no_entry_sign:
 [Político 3](#político-3)  | PTA | ? :bike: :no_entry_sign:
 [Político 3](#político-3)  | PTA | ? :bike: :no_entry_sign:
 [Político 3](#político-3)  | PTA | ? :bike: :no_entry_sign:
