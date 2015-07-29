@@ -16,7 +16,8 @@ Político  | Partido | Posicionamento
 [Político 2](#político-2)  | PTA | a favor :bike:
 [Político 3](#político-3)  | PTA | a favor :bike:
 ## Posicionamento
-Pronunciamentos e posicionamentos públicos de políticos relacionados ao uso de bicicletas em São Paulo. Se você tem contribuições, por favor, escreva para [contato](mailto:contato@codigourbano.org)
+Pronunciamentos e posicionamentos públicos de políticos relacionados ao uso de bicicletas em São Paulo. Se você tem contribuições, por favor, escreva para contato@codigourbano.org
+
 ### Gilson Barreto (PSDB)
 
 ![foto de Gilson Barreto](http://codigourbano.org/wp-content/uploads/2015/07/gilson-barreto1.jpg) 
@@ -27,6 +28,8 @@ Apesar de em teoria se declarar "a favor da ciclofaixas e ciclovias", o vereador
 
 > No Parque São Rafael habitam mais ou menos cinco mil famílias. Fizeram um abaixo-assinado, que foi entregue ao Sr. Prefeito e ao Sr. Secretário de Transportes, 2.200 assinaturas, pedindo para não ser instalada uma ciclofaixa na Av. Baronesa de Muritiba. Esse abaixo-assinado foi feito para salvar o bairro, que está confinado na divisa com Mauá e Santo André; não tem quase nada. É só comércio local. As pessoas utilizam o carro para ir até a avenida por questão de segurança ou mobilidade, ir ao posto colocar gasolina, e param ali. Mas não podem mais. O microempresário investe seu dinheiro, sacrifica a família, paga a conta do Governo e ainda é o marginal dentro do processo. Precisamos mudar isso. É preciso coerência. É preciso administrar a Cidade também com o coração, saber a realidade das pessoas, principalmente das mais simples, do dia a dia. Se o cidadão vai ao boteco é porque, às vezes, vendem parcelado, vendem fiado, essa é a realidade. Ele vai à padaria e não pode parar porque tem lá um riscado de guache. É muita maldade. (...)".
 
+>"(...) Não quero me alongar no discurso, mas há também a questão das pistas para bicicletas, das ciclovias. Há gente dizendo
+que pintaram de vermelho até dentro do banheiro. Dizem que não podem nem atravessar para ir ao banheiro, porque a porta foi pintada de vermelho e existe um risco avisando que vai passar uma bicicleta. Dizem, que quando um carro está estacionado, a pista vermelha passa por cima dele. Essa situação é absurda (...)"
 
 ### José Police Neto (PSD)
 
