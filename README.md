@@ -16,8 +16,7 @@ Político  | Partido | Posicionamento
 [Político 2](#político-2)  | PTA | a favor :bike:
 [Político 3](#político-3)  | PTA | a favor :bike:
 ## Posicionamento
-
-dasdasdasdsadasdasdsa
+Pronunciamentos e posicionamentos públicos de políticos relacionados ao uso de bicicletas em São Paulo. Se você tem contribuições, por favor, escreva para mailto:contato@codigourbano.org
 ### Gilson Barreto (PSDB)
 
 ![foto de Gilson Barreto](http://codigourbano.org/wp-content/uploads/2015/07/gilson-barreto1.jpg) 
