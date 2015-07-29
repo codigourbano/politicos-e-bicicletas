@@ -37,6 +37,7 @@ Descrição do posicionamento, com links.
 
 
 ### Mario Covas Neto (PSDB)
+![foto de Mario Covas Neto](http://codigourbano.org/wp-content/uploads/2015/07/Mario-Covas-Neto.jpg) 
 
 Defendeu a abertura de uma Comissão Parlamentar de Inquérito para investigar as ciclovias de São Paulo. Alega ser a favor do ciclismo, mas tem se posicionado reiteradamente contra a implementação de infraestrutura para bicicletas e questiona até mesmo o seu uso como alternativa de transporte, salvo "nas periferias". Em discurso na Câmara dos Vereadores em 5 de março de 2015, cuja íntegra está disponível a partir da página 75 da edição de 5 de março do [Diário Oficial da Cidade de São Paulo](http://diariooficial.imprensaoficial.com.br/nav_cidade/index.asp?c=1&e=20150305&p=1&clipID=21PTLDI1ISVT9e8GITG6S9S7L8I) afirmou o seguinte:
 
