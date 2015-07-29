@@ -7,7 +7,7 @@ Posicionamentos públicos dos vereadores de São Paulo a respeito do uso de bici
 
 Político  | Partido | Posicionamento 
 --------- | -------- | ------- | -----
-[Político 3](#político-3)  | PTA | ? :bike: :no_entry_sign:
+[Abou Anni](#abou-anni-pv)  |![foto de PV](http://codigourbano.org/wp-content/uploads/2015/07/pv.png) | ? :bike: :no_entry_sign:
 [Político 3](#político-3)  | PTA | ? :bike: :no_entry_sign:
 [Político 3](#político-3)  | PTA | ? :bike: :no_entry_sign:
 [Político 3](#político-3)  | PTA | ? :bike: :no_entry_sign:
@@ -66,6 +66,97 @@ Político  | Partido | Posicionamento
 
 ## Posicionamento
 Pronunciamentos e posicionamentos públicos de políticos relacionados ao uso de bicicletas em São Paulo. Se você tem contribuições, por favor, escreva para contato@codigourbano.org
+
+### Abou Anni (PV)
+![foto de Abou Anni](http://codigourbano.org/wp-content/uploads/2015/07/abou-anni.jpg) 
+
+Sem informações até o momento. 
+
+
+### Político 3
+Sem informações até o momento. 
+
+
+### Político 3
+Sem informações até o momento. 
+
+### Político 3
+Sem informações até o momento. 
+
+
+### Político 3
+Sem informações até o momento. 
+
+
+### Político 3
+Sem informações até o momento. 
+
+### Político 3
+Sem informações até o momento. 
+
+
+### Político 3
+Sem informações até o momento. 
+
+
+### Político 3
+Sem informações até o momento. 
+
+### Político 3
+Sem informações até o momento. 
+
+
+### Político 3
+Sem informações até o momento. 
+
+
+### Político 3
+Sem informações até o momento. 
+
+### Político 3
+Sem informações até o momento. 
+
+
+### Político 3
+Sem informações até o momento. 
+
+
+### Político 3
+Sem informações até o momento. 
+
+### Político 3
+Sem informações até o momento. 
+
+
+### Político 3
+Sem informações até o momento. 
+
+
+### Político 3
+Sem informações até o momento. 
+
+### Político 3
+Sem informações até o momento. 
+
+
+### Político 3
+Sem informações até o momento. 
+
+
+### Político 3
+Sem informações até o momento. 
+
+### Político 3
+Sem informações até o momento. 
+
+
+### Político 3
+Sem informações até o momento. 
+
+
+### Político 3
+Sem informações até o momento. 
+
 
 ### Gilberto Natalini (PV)
 
