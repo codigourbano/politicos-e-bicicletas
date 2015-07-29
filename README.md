@@ -11,8 +11,8 @@ Político  | Partido | Posicionamento
 [Político 3](#político-3)  | PTA | a favor :bike:
 [Político 3](#político-3)  | PTA | a favor :bike:
 [Político 3](#político-3)  | PTA | a favor :bike:
-[Gilson Barreto](#gilson-barreto) | ![foto de PSDB]  (http://codigourbano.org/wp-content/uploads/2015/07/psdb.png) | contra :no_entry_sign:
-[José Police Neto](#José-Police-Neto)  | ![foto de PSD](http://codigourbano.org/wp-content/uploads/2015/07/psd.png) | a favor :bike:
+[Gilson Barreto](#gilson-barreto-psdb) | ![foto de PSDB]  (http://codigourbano.org/wp-content/uploads/2015/07/psdb.png) | contra :no_entry_sign:
+[José Police Neto](#josé-police-beto-psd)  | ![foto de PSD](http://codigourbano.org/wp-content/uploads/2015/07/psd.png) | a favor :bike:
 [Político 2](#político-2)  | PTA | a favor :bike:
 [Político 3](#político-3)  | PTA | a favor :bike:
 ## Posicionamento
@@ -29,7 +29,7 @@ Apesar de em teoria se declarar "a favor da ciclofaixas e ciclovias", o vereador
 > No Parque São Rafael habitam mais ou menos cinco mil famílias. Fizeram um abaixo-assinado, que foi entregue ao Sr. Prefeito e ao Sr. Secretário de Transportes, 2.200 assinaturas, pedindo para não ser instalada uma ciclofaixa na Av. Baronesa de Muritiba. Esse abaixo-assinado foi feito para salvar o bairro, que está confinado na divisa com Mauá e Santo André; não tem quase nada. É só comércio local. As pessoas utilizam o carro para ir até a avenida por questão de segurança ou mobilidade, ir ao posto colocar gasolina, e param ali. Mas não podem mais. O microempresário investe seu dinheiro, sacrifica a família, paga a conta do Governo e ainda é o marginal dentro do processo. Precisamos mudar isso. É preciso coerência. É preciso administrar a Cidade também com o coração, saber a realidade das pessoas, principalmente das mais simples, do dia a dia. Se o cidadão vai ao boteco é porque, às vezes, vendem parcelado, vendem fiado, essa é a realidade. Ele vai à padaria e não pode parar porque tem lá um riscado de guache. É muita maldade. (...)".
 
 
-### José Police Neto
+### José Police Neto (PSD)
 
 Descrição do posicionamento, com links.
 
