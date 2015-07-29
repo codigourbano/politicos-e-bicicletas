@@ -1,6 +1,6 @@
-# políticos & bicicletas
+# vereadores & bicicletas
 
-Posicionamentos públicos a respeito do uso de bicicletas como meio de transporte na construção de políticas públicas de mobilidade. Monitoramento independente feito pelo [Código Urbano] (http://codigourbano.org) a partir de documentos e informações públicas, incluindo levantamentos feitos por Kleber Tadashi e compartilhados na lista de discussões da [Bicicletada](http://bicicletada.org). 
+Posicionamentos públicos dos vereadores de São Paulo a respeito do uso de bicicletas como meio de transporte na construção de políticas públicas de mobilidade. Monitoramento independente feito pelo [Código Urbano] (http://codigourbano.org) a partir de documentos e informações públicas, incluindo levantamentos feitos por Kleber Tadashi e compartilhados na lista de discussões da [Bicicletada](http://bicicletada.org). 
 
 
 ## Índice
