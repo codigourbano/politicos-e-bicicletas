@@ -7,14 +7,64 @@ Posicionamentos públicos dos vereadores de São Paulo a respeito do uso de bici
 
 Político  | Partido | Posicionamento 
 --------- | -------- | ------- | -----
-[Político 3](#político-3)  | PTA | a favor :bike:
-[Político 3](#político-3)  | PTA | a favor :bike:
-[Político 3](#político-3)  | PTA | a favor :bike:
+[Político 3](#político-3)  | PTA | ? :bike: :no_entry_sign:
+[Político 3](#político-3)  | PTA | ? :bike: :no_entry_sign:
+[Político 3](#político-3)  | PTA | ? :bike: :no_entry_sign:
+[Político 3](#político-3)  | PTA | ? :bike: :no_entry_sign:
+[Político 3](#político-3)  | PTA | ? :bike: :no_entry_sign:
+[Político 3](#político-3)  | PTA | ? :bike: :no_entry_sign:
+[Político 3](#político-3)  | PTA | ? :bike: :no_entry_sign:
+[Político 3](#político-3)  | PTA | ? :bike: :no_entry_sign:
+[Político 3](#político-3)  | PTA | ? :bike: :no_entry_sign:
+[Político 3](#político-3)  | PTA | ? :bike: :no_entry_sign:
+[Político 3](#político-3)  | PTA | ? :bike: :no_entry_sign:
+[Político 3](#político-3)  | PTA | ? :bike: :no_entry_sign:
+[Político 3](#político-3)  | PTA | ? :bike: :no_entry_sign:
+[Político 3](#político-3)  | PTA | ? :bike: :no_entry_sign:
+[Político 3](#político-3)  | PTA | ? :bike: :no_entry_sign:
+[Político 3](#político-3)  | PTA | ? :bike: :no_entry_sign:
+[Político 3](#político-3)  | PTA | ? :bike: :no_entry_sign:
+[Político 3](#político-3)  | PTA | ? :bike: :no_entry_sign:
+[Político 3](#político-3)  | PTA | ? :bike: :no_entry_sign:
+[Político 3](#político-3)  | PTA | ? :bike: :no_entry_sign:
+[Político 3](#político-3)  | PTA | ? :bike: :no_entry_sign:
+[Político 3](#político-3)  | PTA | ? :bike: :no_entry_sign:
+[Político 3](#político-3)  | PTA | ? :bike: :no_entry_sign:
+[Político 3](#político-3)  | PTA | ? :bike: :no_entry_sign:
+[Político 3](#político-3)  | PTA | ? :bike: :no_entry_sign:
+[Político 3](#político-3)  | PTA | ? :bike: :no_entry_sign:
+
 [Gilberto Natalini](#gilberto-natalini-pv)  | ![foto de PV](http://codigourbano.org/wp-content/uploads/2015/07/pv.png) | ? :bike: :no_entry_sign:
 [Gilson Barreto](#gilson-barreto-psdb) | ![foto de PSDB]  (http://codigourbano.org/wp-content/uploads/2015/07/psdb.png) | contra :no_entry_sign:
 [José Police Neto](#josé-police-neto-psd)  | ![foto de PSD](http://codigourbano.org/wp-content/uploads/2015/07/psd.png) | ? :bike: :no_entry_sign:
 [Mario Covas Neto](#mario-covas-neto-psdb)  | ![foto de PSDB]  (http://codigourbano.org/wp-content/uploads/2015/07/psdb.png)| contra :no_entry_sign:
-[Político 3](#político-3)  | PTA | a favor :bike:
+[Político 3](#político-3)  | PTA | ? :bike: :no_entry_sign:
+[Político 3](#político-3)  | PTA | ? :bike: :no_entry_sign:
+[Político 3](#político-3)  | PTA | ? :bike: :no_entry_sign:
+[Político 3](#político-3)  | PTA | ? :bike: :no_entry_sign:
+[Político 3](#político-3)  | PTA | ? :bike: :no_entry_sign:
+[Político 3](#político-3)  | PTA | ? :bike: :no_entry_sign:
+[Político 3](#político-3)  | PTA | ? :bike: :no_entry_sign:
+[Político 3](#político-3)  | PTA | ? :bike: :no_entry_sign:
+[Político 3](#político-3)  | PTA | ? :bike: :no_entry_sign:
+[Político 3](#político-3)  | PTA | ? :bike: :no_entry_sign:
+[Político 3](#político-3)  | PTA | ? :bike: :no_entry_sign:
+[Político 3](#político-3)  | PTA | ? :bike: :no_entry_sign:
+[Político 3](#político-3)  | PTA | ? :bike: :no_entry_sign:
+[Político 3](#político-3)  | PTA | ? :bike: :no_entry_sign:
+[Político 3](#político-3)  | PTA | ? :bike: :no_entry_sign:
+[Político 3](#político-3)  | PTA | ? :bike: :no_entry_sign:
+[Político 3](#político-3)  | PTA | ? :bike: :no_entry_sign:
+[Político 3](#político-3)  | PTA | ? :bike: :no_entry_sign:
+[Político 3](#político-3)  | PTA | ? :bike: :no_entry_sign:
+[Político 3](#político-3)  | PTA | ? :bike: :no_entry_sign:
+[Político 3](#político-3)  | PTA | ? :bike: :no_entry_sign:
+[Político 3](#político-3)  | PTA | ? :bike: :no_entry_sign:
+[Político 3](#político-3)  | PTA | ? :bike: :no_entry_sign:
+[Político 3](#político-3)  | PTA | ? :bike: :no_entry_sign:
+[Político 3](#político-3)  | PTA | ? :bike: :no_entry_sign:
+[Político 3](#político-3)  | PTA | ? :bike: :no_entry_sign:
+
 ## Posicionamento
 Pronunciamentos e posicionamentos públicos de políticos relacionados ao uso de bicicletas em São Paulo. Se você tem contribuições, por favor, escreva para contato@codigourbano.org
 
