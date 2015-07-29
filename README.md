@@ -25,44 +25,43 @@ Político  | Partido | Posicionamento
 [Conte Lopes](#conte-lopes-ptb)  | PTA | ? :bike: :no_entry_sign:
 [Dalton Silvano](#dalton-silvano-pv)  | PTA | ? :bike: :no_entry_sign:
 [David Soares](#david-soares-psd)  | PTA | ? :bike: :no_entry_sign:
-[Edir Salres](#edir-sales-psd)  | PTA | ? :bike: :no_entry_sign:
-[Político 3](#político-3)  | PTA | ? :bike: :no_entry_sign:
-[Político 3](#político-3)  | PTA | ? :bike: :no_entry_sign:
-[Político 3](#político-3)  | PTA | ? :bike: :no_entry_sign:
-[Político 3](#político-3)  | PTA | ? :bike: :no_entry_sign:
-[Político 3](#político-3)  | PTA | ? :bike: :no_entry_sign:
-[Político 3](#político-3)  | PTA | ? :bike: :no_entry_sign:
-[Político 3](#político-3)  | PTA | ? :bike: :no_entry_sign:
+[Edir Sales](#edir-sales-psd)  | PTA | ? :bike: :no_entry_sign:
+[Eduardo Tuma](#eduardo-tuma-psdb)  | PTA | ? :bike: :no_entry_sign:
+[Eliseu Gabriel](#eliseu-gabriel-psb)  | PTA | ? :bike: :no_entry_sign:
+[George Hato](#george-hato-pmdb)  | PTA | ? :bike: :no_entry_sign:
 [Gilberto Natalini](#gilberto-natalini-pv)  | ![foto de PV](http://codigourbano.org/wp-content/uploads/2015/07/pv.png) | ? :bike: :no_entry_sign:
 [Gilson Barreto](#gilson-barreto-psdb) | ![foto de PSDB]  (http://codigourbano.org/wp-content/uploads/2015/07/psdb.png) | contra :no_entry_sign:
+[Jair Tatto](#jair-tatto-pt)  | PTA | ? :bike: :no_entry_sign:
+[Jonas Camisa Nova](#jonas-camisa-nova-dem)  | PTA | ? :bike: :no_entry_sign:
 [José Police Neto](#josé-police-neto-psd)  | ![foto de PSD](http://codigourbano.org/wp-content/uploads/2015/07/psd.png) | ? :bike: :no_entry_sign:
+[Juliana Cardoso](#juliana-cardoso-pt)  | PTA | ? :bike: :no_entry_sign:
 [Mario Covas Neto](#mario-covas-neto-psdb)  | ![foto de PSDB]  (http://codigourbano.org/wp-content/uploads/2015/07/psdb.png)| contra :no_entry_sign:
-[Político 3](#político-3)  | PTA | ? :bike: :no_entry_sign:
-[Político 3](#político-3)  | PTA | ? :bike: :no_entry_sign:
-[Político 3](#político-3)  | PTA | ? :bike: :no_entry_sign:
-[Político 3](#político-3)  | PTA | ? :bike: :no_entry_sign:
-[Político 3](#político-3)  | PTA | ? :bike: :no_entry_sign:
-[Político 3](#político-3)  | PTA | ? :bike: :no_entry_sign:
-[Político 3](#político-3)  | PTA | ? :bike: :no_entry_sign:
-[Político 3](#político-3)  | PTA | ? :bike: :no_entry_sign:
-[Político 3](#político-3)  | PTA | ? :bike: :no_entry_sign:
-[Político 3](#político-3)  | PTA | ? :bike: :no_entry_sign:
-[Político 3](#político-3)  | PTA | ? :bike: :no_entry_sign:
-[Político 3](#político-3)  | PTA | ? :bike: :no_entry_sign:
-[Político 3](#político-3)  | PTA | ? :bike: :no_entry_sign:
-[Político 3](#político-3)  | PTA | ? :bike: :no_entry_sign:
-[Político 3](#político-3)  | PTA | ? :bike: :no_entry_sign:
-[Político 3](#político-3)  | PTA | ? :bike: :no_entry_sign:
-[Político 3](#político-3)  | PTA | ? :bike: :no_entry_sign:
-[Político 3](#político-3)  | PTA | ? :bike: :no_entry_sign:
-[Político 3](#político-3)  | PTA | ? :bike: :no_entry_sign:
-[Político 3](#político-3)  | PTA | ? :bike: :no_entry_sign:
-[Político 3](#político-3)  | PTA | ? :bike: :no_entry_sign:
-[Político 3](#político-3)  | PTA | ? :bike: :no_entry_sign:
-[Político 3](#político-3)  | PTA | ? :bike: :no_entry_sign:
-[Político 3](#político-3)  | PTA | ? :bike: :no_entry_sign:
-[Político 3](#político-3)  | PTA | ? :bike: :no_entry_sign:
-[Político 3](#político-3)  | PTA | ? :bike: :no_entry_sign:
+[Marquito](#marquito-ptb)  | PTA | ? :bike: :no_entry_sign:
+[Milton Leite](#milton-leite-dem)  | PTA | ? :bike: :no_entry_sign:
+[Nelo Rodolfo](#nelo-rodolfo-pmdb)  | PTA | ? :bike: :no_entry_sign:
+[Netinho de Paula](#netinho-de-paula-pdt)  | PTA | ? :bike: :no_entry_sign:
+[Noemi Nonato](#noemi-nonato-pros)  | PTA | ? :bike: :no_entry_sign:
+[Ota](#ota-pros)  | PTA | ? :bike: :no_entry_sign:
+[Patricia Bezerra](#patricia-bezerra-psdb)  | PTA | ? :bike: :no_entry_sign:
+[Paulo Fiorilo](#paulo-fiorilo-pt)  | PTA | ? :bike: :no_entry_sign:
+[Paulo Frange](#paulo-frange-pdt)  | PTA | ? :bike: :no_entry_sign:
+[Pastor Edemilson Chaves](#pastor-edemilson-chaves-pp)  | PTA | ? :bike: :no_entry_sign:
+[Quito Formiga](#quito-formiga-pr)  | PTA | ? :bike: :no_entry_sign:
+[Reis](#reis-pt)  | PTA | ? :bike: :no_entry_sign:
+[Ricardo Nunes](#ricardo-nunes-pmdb)  | PTA | ? :bike: :no_entry_sign:
+[Ricardo Teixeira](#ricardo-teixeira-pv)  | PTA | ? :bike: :no_entry_sign:
+[Ricardo Young](#ricardo-young-pps)  | PTA | ? :bike: :no_entry_sign:
+[Rodolfo Despachante](#rodolfo-despachante-phs)  | PTA | ? :bike: :no_entry_sign:
+[Salomão Pereira](#salomão-pereira-psdb)  | PTA | ? :bike: :no_entry_sign:
+[Sandra Tadeu](#sandra-tadeu-dem)  | PTA | ? :bike: :no_entry_sign:
+[Senival Moura](#senival-moura-pt)  | PTA | ? :bike: :no_entry_sign:
+[Souza Santos](#souza-santos-psd)  | PTA | ? :bike: :no_entry_sign:
+[Toninho Paiva](#toninho-paiva-pr)  | PTA | ? :bike: :no_entry_sign:
+[Toninho Vespoli](#toninho-vespoli-psol)  | PTA | ? :bike: :no_entry_sign:
+[Ushitaro Kamia](#ushitaro-kamia-psd)  | PTA | ? :bike: :no_entry_sign:
+[Valdecir Cabrabom](#valdecir-cabrabom-ptb)  | PTA | ? :bike: :no_entry_sign:
+[Vavá](#vavá-pt)  | PTA | ? :bike: :no_entry_sign:
+[Wadih Mutran](#wadih-mutran-pp)  | PTA | ? :bike: :no_entry_sign:
 
 ## Posicionamento
 Pronunciamentos e posicionamentos públicos de políticos relacionados ao uso de bicicletas em São Paulo. Se você tem contribuições, por favor, escreva para contato@codigourbano.org
