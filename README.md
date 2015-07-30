@@ -34,7 +34,7 @@ Político  | Partido | Posicionamento
 [Jair Tatto](#jair-tatto-pt)  | ![foto de PT]  (http://codigourbano.org/wp-content/uploads/2015/07/pt.png) | -
 [Jonas Camisa Nova](#jonas-camisa-nova-dem)  | ![foto de DEM]  (http://codigourbano.org/wp-content/uploads/2015/07/dem.png) | -
 [José Police Neto](#josé-police-neto-psd)  | ![foto de PSD](http://codigourbano.org/wp-content/uploads/2015/07/psd.png) | -
-[Juliana Cardoso](#juliana-cardoso-pt)  | ![foto de PT]  (http://codigourbano.org/wp-content/uploads/2015/07/pt.png) | -
+[Juliana Cardoso](#juliana-cardoso-pt)  | ![foto de PT]  (http://codigourbano.org/wp-content/uploads/2015/07/pt.png) | a favor :bike: 
 [Mario Covas Neto](#mario-covas-neto-psdb)  | ![foto de PSDB]  (http://codigourbano.org/wp-content/uploads/2015/07/psdb.png)| contra :no_entry_sign:
 [Marquito](#marquito-ptb)  | ![foto de PTB]  (http://codigourbano.org/wp-content/uploads/2015/07/ptb.png) | -
 [Milton Leite](#milton-leite-dem)  | ![foto de DEM]  (http://codigourbano.org/wp-content/uploads/2015/07/dem.png) | -
