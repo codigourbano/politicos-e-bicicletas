@@ -7,61 +7,61 @@ Posicionamentos públicos dos vereadores de São Paulo a respeito do uso de bici
 
 Político  | Partido | Posicionamento 
 --------- | -------- | ------- | -----
-[Abou Anni](#abou-anni-pv)  |![foto de PV](http://codigourbano.org/wp-content/uploads/2015/07/pv.png) | ? :bike: :no_entry_sign:
-[Adilson Amadeu](#adilson-amadeu-ptb)  | ![foto de PTB](http://codigourbano.org/wp-content/uploads/2015/07/ptb.png)  | ? :bike: :no_entry_sign:
-[Adolfo Quintas](#adolfo-quintas-psdb)  | ![foto de PSDB]  (http://codigourbano.org/wp-content/uploads/2015/07/psdb.png)  | ? :bike: :no_entry_sign:
-[Alessandro Guedes](#alessandro-guedes-pt)  | ![foto de PT]  (http://codigourbano.org/wp-content/uploads/2015/07/pt.png)  | ? :bike: :no_entry_sign:
-[Alfredinho](#alfredinho-pt)  | ![foto de PT]  (http://codigourbano.org/wp-content/uploads/2015/07/pt.png) | ? :bike: :no_entry_sign:
+[Abou Anni](#abou-anni-pv)  |![foto de PV](http://codigourbano.org/wp-content/uploads/2015/07/pv.png) | -
+[Adilson Amadeu](#adilson-amadeu-ptb)  | ![foto de PTB](http://codigourbano.org/wp-content/uploads/2015/07/ptb.png)  | -
+[Adolfo Quintas](#adolfo-quintas-psdb)  | ![foto de PSDB]  (http://codigourbano.org/wp-content/uploads/2015/07/psdb.png)  | -
+[Alessandro Guedes](#alessandro-guedes-pt)  | ![foto de PT]  (http://codigourbano.org/wp-content/uploads/2015/07/pt.png)  | -
+[Alfredinho](#alfredinho-pt)  | ![foto de PT]  (http://codigourbano.org/wp-content/uploads/2015/07/pt.png) | -
 [Andrea Matarazzo](#andrea-matarazzo-psdb)  | ![foto de PSDB]  (http://codigourbano.org/wp-content/uploads/2015/07/psdb.png)  | contra :no_entry_sign:
-[Anibal de Freitas](#anibal-de-freitas-psdb)  | ![foto de PSDB]  (http://codigourbano.org/wp-content/uploads/2015/07/psdb.png)  | ? :bike: :no_entry_sign:
-[Antonio Donato](#antonio-donato-pt)  | ![foto de PT]  (http://codigourbano.org/wp-content/uploads/2015/07/pt.png) | ? :bike: :no_entry_sign:
-[Ari Friedenbach](#ari-friedenbach-pros)  | ![foto de PROS]  (http://codigourbano.org/wp-content/uploads/2015/07/pros.png) | ? :bike: :no_entry_sign:
-[Arselino Tatto](#arselino-tatto-pt)  | ![foto de PT]  (http://codigourbano.org/wp-content/uploads/2015/07/pt.png) | ? :bike: :no_entry_sign:
-[Atilio Francisco](#atilio-francisco-prb)  | ![foto de PRB]  (http://codigourbano.org/wp-content/uploads/2015/07/prb.png) | ? :bike: :no_entry_sign:
-[Aurélio Miguel](#aurélio-miguel-pr)  | ![foto de PR]  (http://codigourbano.org/wp-content/uploads/2015/07/pr.png) | ? :bike: :no_entry_sign:
-[Aurélio Nomura](#aurélio-nomura-psdb)  | ![foto de PSDB]  (http://codigourbano.org/wp-content/uploads/2015/07/psdb.png)  | ? :bike: :no_entry_sign:
-[Calvo](#calvo-pmdb)  | ![foto de PMDB]  (http://codigourbano.org/wp-content/uploads/2015/07/pmdb.png) | ? :bike: :no_entry_sign:
-[Claudinho de Souza](#claudinho-de-souza-psdb)  | ![foto de PSDB]  (http://codigourbano.org/wp-content/uploads/2015/07/psdb.png)  | ? :bike: :no_entry_sign:
-[Conte Lopes](#conte-lopes-ptb)  | ![foto de PTB]  (http://codigourbano.org/wp-content/uploads/2015/07/ptb.png) | ? :bike: :no_entry_sign:
-[Dalton Silvano](#dalton-silvano-pv)  | ![foto de PV]  (http://codigourbano.org/wp-content/uploads/2015/07/pv.png) | ? :bike: :no_entry_sign:
-[David Soares](#david-soares-psd)  | ![foto de PSB]  (http://codigourbano.org/wp-content/uploads/2015/07/psb.png) | ? :bike: :no_entry_sign:
-[Edir Sales](#edir-sales-psd)  | ![foto de PSB]  (http://codigourbano.org/wp-content/uploads/2015/07/psb.png) | ? :bike: :no_entry_sign:
-[Eduardo Tuma](#eduardo-tuma-psdb)  | ![foto de PSDB]  (http://codigourbano.org/wp-content/uploads/2015/07/psdb.png)  | ? :bike: :no_entry_sign:
-[Eliseu Gabriel](#eliseu-gabriel-psb)  | ![foto de PSB]  (http://codigourbano.org/wp-content/uploads/2015/07/psb.png) | ? :bike: :no_entry_sign:
-[George Hato](#george-hato-pmdb)  | ![foto de PMDB]  (http://codigourbano.org/wp-content/uploads/2015/07/pmdb.png) | ? :bike: :no_entry_sign:
-[Gilberto Natalini](#gilberto-natalini-pv)  | ![foto de PV](http://codigourbano.org/wp-content/uploads/2015/07/pv.png) | ? :bike: :no_entry_sign:
+[Anibal de Freitas](#anibal-de-freitas-psdb)  | ![foto de PSDB]  (http://codigourbano.org/wp-content/uploads/2015/07/psdb.png)  | -
+[Antonio Donato](#antonio-donato-pt)  | ![foto de PT]  (http://codigourbano.org/wp-content/uploads/2015/07/pt.png) | -
+[Ari Friedenbach](#ari-friedenbach-pros)  | ![foto de PROS]  (http://codigourbano.org/wp-content/uploads/2015/07/pros.png) | -
+[Arselino Tatto](#arselino-tatto-pt)  | ![foto de PT]  (http://codigourbano.org/wp-content/uploads/2015/07/pt.png) | -
+[Atilio Francisco](#atilio-francisco-prb)  | ![foto de PRB]  (http://codigourbano.org/wp-content/uploads/2015/07/prb.png) | -
+[Aurélio Miguel](#aurélio-miguel-pr)  | ![foto de PR]  (http://codigourbano.org/wp-content/uploads/2015/07/pr.png) | -
+[Aurélio Nomura](#aurélio-nomura-psdb)  | ![foto de PSDB]  (http://codigourbano.org/wp-content/uploads/2015/07/psdb.png)  | -
+[Calvo](#calvo-pmdb)  | ![foto de PMDB]  (http://codigourbano.org/wp-content/uploads/2015/07/pmdb.png) | -
+[Claudinho de Souza](#claudinho-de-souza-psdb)  | ![foto de PSDB]  (http://codigourbano.org/wp-content/uploads/2015/07/psdb.png)  | -
+[Conte Lopes](#conte-lopes-ptb)  | ![foto de PTB]  (http://codigourbano.org/wp-content/uploads/2015/07/ptb.png) | -
+[Dalton Silvano](#dalton-silvano-pv)  | ![foto de PV]  (http://codigourbano.org/wp-content/uploads/2015/07/pv.png) | -
+[David Soares](#david-soares-psd)  | ![foto de PSB]  (http://codigourbano.org/wp-content/uploads/2015/07/psb.png) | -
+[Edir Sales](#edir-sales-psd)  | ![foto de PSB]  (http://codigourbano.org/wp-content/uploads/2015/07/psb.png) | -
+[Eduardo Tuma](#eduardo-tuma-psdb)  | ![foto de PSDB]  (http://codigourbano.org/wp-content/uploads/2015/07/psdb.png)  | -
+[Eliseu Gabriel](#eliseu-gabriel-psb)  | ![foto de PSB]  (http://codigourbano.org/wp-content/uploads/2015/07/psb.png) | -
+[George Hato](#george-hato-pmdb)  | ![foto de PMDB]  (http://codigourbano.org/wp-content/uploads/2015/07/pmdb.png) | -
+[Gilberto Natalini](#gilberto-natalini-pv)  | ![foto de PV](http://codigourbano.org/wp-content/uploads/2015/07/pv.png) | -
 [Gilson Barreto](#gilson-barreto-psdb) | ![foto de PSDB]  (http://codigourbano.org/wp-content/uploads/2015/07/psdb.png) | contra :no_entry_sign:
-[Jair Tatto](#jair-tatto-pt)  | ![foto de PT]  (http://codigourbano.org/wp-content/uploads/2015/07/pt.png) | ? :bike: :no_entry_sign:
-[Jonas Camisa Nova](#jonas-camisa-nova-dem)  | ![foto de DEM]  (http://codigourbano.org/wp-content/uploads/2015/07/dem.png) | ? :bike: :no_entry_sign:
-[José Police Neto](#josé-police-neto-psd)  | ![foto de PSD](http://codigourbano.org/wp-content/uploads/2015/07/psd.png) | ? :bike: :no_entry_sign:
-[Juliana Cardoso](#juliana-cardoso-pt)  | ![foto de PT]  (http://codigourbano.org/wp-content/uploads/2015/07/pt.png) | ? :bike: :no_entry_sign:
+[Jair Tatto](#jair-tatto-pt)  | ![foto de PT]  (http://codigourbano.org/wp-content/uploads/2015/07/pt.png) | -
+[Jonas Camisa Nova](#jonas-camisa-nova-dem)  | ![foto de DEM]  (http://codigourbano.org/wp-content/uploads/2015/07/dem.png) | -
+[José Police Neto](#josé-police-neto-psd)  | ![foto de PSD](http://codigourbano.org/wp-content/uploads/2015/07/psd.png) | -
+[Juliana Cardoso](#juliana-cardoso-pt)  | ![foto de PT]  (http://codigourbano.org/wp-content/uploads/2015/07/pt.png) | -
 [Mario Covas Neto](#mario-covas-neto-psdb)  | ![foto de PSDB]  (http://codigourbano.org/wp-content/uploads/2015/07/psdb.png)| contra :no_entry_sign:
-[Marquito](#marquito-ptb)  | ![foto de PTB]  (http://codigourbano.org/wp-content/uploads/2015/07/ptb.png) | ? :bike: :no_entry_sign:
-[Milton Leite](#milton-leite-dem)  | ![foto de DEM]  (http://codigourbano.org/wp-content/uploads/2015/07/dem.png) | ? :bike: :no_entry_sign:
-[Nelo Rodolfo](#nelo-rodolfo-pmdb)  | ![foto de PMDB]  (http://codigourbano.org/wp-content/uploads/2015/07/pmdb.png) | ? :bike: :no_entry_sign:
-[Netinho de Paula](#netinho-de-paula-pdt)  | ![foto de PDT]  (http://codigourbano.org/wp-content/uploads/2015/07/pdt.png) | ? :bike: :no_entry_sign:
-[Noemi Nonato](#noemi-nonato-pros)  | ![foto de PROS]  (http://codigourbano.org/wp-content/uploads/2015/07/pros.png) | ? :bike: :no_entry_sign:
-[Ota](#ota-pros)  | ![foto de PROS]  (http://codigourbano.org/wp-content/uploads/2015/07/pros.png) | ? :bike: :no_entry_sign:
-[Patricia Bezerra](#patricia-bezerra-psdb)  | ![foto de PSDB]  (http://codigourbano.org/wp-content/uploads/2015/07/psdb.png)  | ? :bike: :no_entry_sign:
-[Paulo Fiorilo](#paulo-fiorilo-pt)  | ![foto de PT]  (http://codigourbano.org/wp-content/uploads/2015/07/pt.png) | ? :bike: :no_entry_sign:
-[Paulo Frange](#paulo-frange-ptb)  | ![foto de PTB]  (http://codigourbano.org/wp-content/uploads/2015/07/ptb.png) | ? :bike: :no_entry_sign:
-[Pastor Edemilson Chaves](#pastor-edemilson-chaves-pp)  | ![foto de PP]  (http://codigourbano.org/wp-content/uploads/2015/07/pp.png) | ? :bike: :no_entry_sign:
-[Quito Formiga](#quito-formiga-pr)  | ![foto de PR]  (http://codigourbano.org/wp-content/uploads/2015/07/pr.png) | ? :bike: :no_entry_sign:
-[Reis](#reis-pt)  | ![foto de PT]  (http://codigourbano.org/wp-content/uploads/2015/07/pt.png) | ? :bike: :no_entry_sign:
-[Ricardo Nunes](#ricardo-nunes-pmdb)  | ![foto de PMDB] (http://codigourbano.org/wp-content/uploads/2015/07/pmdb.png)) | ? :bike: :no_entry_sign:
-[Ricardo Teixeira](#ricardo-teixeira-pv)  | ![foto de PV]  (http://codigourbano.org/wp-content/uploads/2015/07/pv.png) | ? :bike: :no_entry_sign:
-[Ricardo Young](#ricardo-young-pps)  | ![foto de PPS]  (http://codigourbano.org/wp-content/uploads/2015/07/pps.png) | ? :bike: :no_entry_sign:
-[Rodolfo Despachante](#rodolfo-despachante-phs)  | ![foto de PHS]  (http://codigourbano.org/wp-content/uploads/2015/07/phs.png) | ? :bike: :no_entry_sign:
-[Salomão Pereira](#salomão-pereira-psdb)  | ![foto de PSDB]  (http://codigourbano.org/wp-content/uploads/2015/07/psdb.png)  | ? :bike: :no_entry_sign:
-[Sandra Tadeu](#sandra-tadeu-dem)  | ![foto de DEM]  (http://codigourbano.org/wp-content/uploads/2015/07/dem.png) | | ? :bike: :no_entry_sign:
-[Senival Moura](#senival-moura-pt)  | ![foto de PT]  (http://codigourbano.org/wp-content/uploads/2015/07/pt.png) | ? :bike: :no_entry_sign:
-[Souza Santos](#souza-santos-psd)  | ![foto de PSD]  (http://codigourbano.org/wp-content/uploads/2015/07/psd.png) | ? :bike: :no_entry_sign:
-[Toninho Paiva](#toninho-paiva-pr)  | ![foto de PR]  (http://codigourbano.org/wp-content/uploads/2015/07/pr.png) || ? :bike: :no_entry_sign:
-[Toninho Vespoli](#toninho-vespoli-psol)  | ![foto de PSOL]  (http://codigourbano.org/wp-content/uploads/2015/07/psol.png) | | ? :bike: :no_entry_sign:
-[Ushitaro Kamia](#ushitaro-kamia-psd)  | ![foto de PSD]  (http://codigourbano.org/wp-content/uploads/2015/07/psd.png) | ? :bike: :no_entry_sign:
-[Valdecir Cabrabom](#valdecir-cabrabom-ptb)  | ![foto de PTB]  (http://codigourbano.org/wp-content/uploads/2015/07/ptb.png) | ? :bike: :no_entry_sign:
-[Vavá](#vavá-pt)  | ![foto de PT]  (http://codigourbano.org/wp-content/uploads/2015/07/pt.png) | ? :bike: :no_entry_sign:
-[Wadih Mutran](#wadih-mutran-pp)  | ![foto de PP]  (http://codigourbano.org/wp-content/uploads/2015/07/pp.png) | ? :bike: :no_entry_sign:
+[Marquito](#marquito-ptb)  | ![foto de PTB]  (http://codigourbano.org/wp-content/uploads/2015/07/ptb.png) | -
+[Milton Leite](#milton-leite-dem)  | ![foto de DEM]  (http://codigourbano.org/wp-content/uploads/2015/07/dem.png) | -
+[Nelo Rodolfo](#nelo-rodolfo-pmdb)  | ![foto de PMDB]  (http://codigourbano.org/wp-content/uploads/2015/07/pmdb.png) | -
+[Netinho de Paula](#netinho-de-paula-pdt)  | ![foto de PDT]  (http://codigourbano.org/wp-content/uploads/2015/07/pdt.png) | -
+[Noemi Nonato](#noemi-nonato-pros)  | ![foto de PROS]  (http://codigourbano.org/wp-content/uploads/2015/07/pros.png) | -
+[Ota](#ota-pros)  | ![foto de PROS]  (http://codigourbano.org/wp-content/uploads/2015/07/pros.png) | -
+[Patricia Bezerra](#patricia-bezerra-psdb)  | ![foto de PSDB]  (http://codigourbano.org/wp-content/uploads/2015/07/psdb.png)  | -
+[Paulo Fiorilo](#paulo-fiorilo-pt)  | ![foto de PT]  (http://codigourbano.org/wp-content/uploads/2015/07/pt.png) | -
+[Paulo Frange](#paulo-frange-ptb)  | ![foto de PTB]  (http://codigourbano.org/wp-content/uploads/2015/07/ptb.png) | -
+[Pastor Edemilson Chaves](#pastor-edemilson-chaves-pp)  | ![foto de PP]  (http://codigourbano.org/wp-content/uploads/2015/07/pp.png) | -
+[Quito Formiga](#quito-formiga-pr)  | ![foto de PR]  (http://codigourbano.org/wp-content/uploads/2015/07/pr.png) | -
+[Reis](#reis-pt)  | ![foto de PT]  (http://codigourbano.org/wp-content/uploads/2015/07/pt.png) | -
+[Ricardo Nunes](#ricardo-nunes-pmdb)  | ![foto de PMDB] (http://codigourbano.org/wp-content/uploads/2015/07/pmdb.png)) | -
+[Ricardo Teixeira](#ricardo-teixeira-pv)  | ![foto de PV]  (http://codigourbano.org/wp-content/uploads/2015/07/pv.png) | -
+[Ricardo Young](#ricardo-young-pps)  | ![foto de PPS]  (http://codigourbano.org/wp-content/uploads/2015/07/pps.png) | -
+[Rodolfo Despachante](#rodolfo-despachante-phs)  | ![foto de PHS]  (http://codigourbano.org/wp-content/uploads/2015/07/phs.png) | -
+[Salomão Pereira](#salomão-pereira-psdb)  | ![foto de PSDB]  (http://codigourbano.org/wp-content/uploads/2015/07/psdb.png)  | -
+[Sandra Tadeu](#sandra-tadeu-dem)  | ![foto de DEM]  (http://codigourbano.org/wp-content/uploads/2015/07/dem.png) | -
+[Senival Moura](#senival-moura-pt)  | ![foto de PT]  (http://codigourbano.org/wp-content/uploads/2015/07/pt.png) | -
+[Souza Santos](#souza-santos-psd)  | ![foto de PSD]  (http://codigourbano.org/wp-content/uploads/2015/07/psd.png) | -
+[Toninho Paiva](#toninho-paiva-pr)  | ![foto de PR]  (http://codigourbano.org/wp-content/uploads/2015/07/pr.png) |-
+[Toninho Vespoli](#toninho-vespoli-psol)  | ![foto de PSOL]  (http://codigourbano.org/wp-content/uploads/2015/07/psol.png) |-
+[Ushitaro Kamia](#ushitaro-kamia-psd)  | ![foto de PSD]  (http://codigourbano.org/wp-content/uploads/2015/07/psd.png) | -
+[Valdecir Cabrabom](#valdecir-cabrabom-ptb)  | ![foto de PTB]  (http://codigourbano.org/wp-content/uploads/2015/07/ptb.png) |-
+[Vavá](#vavá-pt)  | ![foto de PT]  (http://codigourbano.org/wp-content/uploads/2015/07/pt.png) | -
+[Wadih Mutran](#wadih-mutran-pp)  | ![foto de PP]  (http://codigourbano.org/wp-content/uploads/2015/07/pp.png) | -
 
 ## Posicionamento
 Pronunciamentos e posicionamentos públicos de políticos relacionados ao uso de bicicletas em São Paulo. Se você tem contribuições, por favor, escreva para contato@codigourbano.org
