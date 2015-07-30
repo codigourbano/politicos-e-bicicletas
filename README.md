@@ -48,7 +48,7 @@ Político  | Partido | Posicionamento
 [Pastor Edemilson Chaves](#pastor-edemilson-chaves-pp)  | ![foto de PP]  (http://codigourbano.org/wp-content/uploads/2015/07/pp.png) | ? :bike: :no_entry_sign:
 [Quito Formiga](#quito-formiga-pr)  | ![foto de PR]  (http://codigourbano.org/wp-content/uploads/2015/07/pr.png) | ? :bike: :no_entry_sign:
 [Reis](#reis-pt)  | ![foto de PT]  (http://codigourbano.org/wp-content/uploads/2015/07/pt.png) | ? :bike: :no_entry_sign:
-[Ricardo Nunes](#ricardo-nunes-pmdb)  | ![foto de PMDB]  (![foto de PSD]  (http://codigourbano.org/wp-content/uploads/2015/07/pmdb.png)) | ? :bike: :no_entry_sign:
+[Ricardo Nunes](#ricardo-nunes-pmdb)  | ![foto de PMDB] (http://codigourbano.org/wp-content/uploads/2015/07/pmdb.png)) | ? :bike: :no_entry_sign:
 [Ricardo Teixeira](#ricardo-teixeira-pv)  | ![foto de PV]  (http://codigourbano.org/wp-content/uploads/2015/07/pv.png) | ? :bike: :no_entry_sign:
 [Ricardo Young](#ricardo-young-pps)  | ![foto de PPS]  (http://codigourbano.org/wp-content/uploads/2015/07/pps.png) | ? :bike: :no_entry_sign:
 [Rodolfo Despachante](#rodolfo-despachante-phs)  | ![foto de PHS]  (http://codigourbano.org/wp-content/uploads/2015/07/phs.png) | ? :bike: :no_entry_sign:
