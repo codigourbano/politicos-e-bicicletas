@@ -1,4 +1,4 @@
-![foto de Código Urbano](http://codigourbano.org/wp-content/uploads/2015/02/logo-pequeno-square-150x150.png) 
+![foto de Código Urbano](http://codigourbano.org/wp-content/uploads/2015/02/logo-pequeno-square-150x150.png) [codigourbano.org](http://codigourbano)
 # vereadores & bicicletas
 
 Nesta página, reunimos os posicionamentos públicos de vereadores de São Paulo a respeito do uso de bicicletas como meio de transporte na cidade. Trata-se de um monitoramento independente feito pelo [Código Urbano] (http://codigourbano.org) a partir de documentos e informações abertas, incluindo levantamentos baseados no Diário Oficial da Cidade de São Paulo feitos por Kleber Tadashi e compartilhados na lista de discussões da [Bicicletada](http://bicicletada.org). O espaço tem como objetivo contribuir com o debate para a construção de políticas públicas de mobilidade. 
