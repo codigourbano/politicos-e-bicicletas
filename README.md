@@ -33,7 +33,7 @@ Político  | Partido | Posicionamento
 [Gilberto Natalini](#gilberto-natalini-pv)  | ![foto de PV](http://codigourbano.org/wp-content/uploads/2015/07/pv.png) | -
 [Gilson Barreto](#gilson-barreto-psdb) | ![foto de PSDB]  (http://codigourbano.org/wp-content/uploads/2015/07/psdb.png) | contra :no_entry_sign:
 [Jair Tatto](#jair-tatto-pt)  | ![foto de PT]  (http://codigourbano.org/wp-content/uploads/2015/07/pt.png) | -
-[Jonas Camisa Nova](#jonas-camisa-nova-dem)  | ![foto de DEM]  (http://codigourbano.org/wp-content/uploads/2015/07/dem.png) | -
+[Jonas Camisa Nova](#jonas-camisa-nova-dem)  | ![foto de DEM]  (http://codigourbano.org/wp-content/uploads/2015/07/dem.png) | radicalmente contra :no-entry-sign:
 [José Police Neto](#josé-police-neto-psd)  | ![foto de PSD](http://codigourbano.org/wp-content/uploads/2015/07/psd.png) | -
 [Juliana Cardoso](#juliana-cardoso-pt)  | ![foto de PT]  (http://codigourbano.org/wp-content/uploads/2015/07/pt.png) | a favor :bike: 
 [Mario Covas Neto](#mario-covas-neto-psdb)  | ![foto de PSDB]  (http://codigourbano.org/wp-content/uploads/2015/07/psdb.png)| contra :no_entry_sign:
@@ -223,7 +223,9 @@ Sem informações até o momento.
 
 ![foto de Jonas Camisa Nova](http://codigourbano.org/wp-content/uploads/2015/07/Jonas_Camisa_Nova2.jpg) 
 
-Sem informações até o momento. 
+http://g1.globo.com/sao-paulo/noticia/2015/03/substituto-de-telhada-na-camara-diz-que-ciclovia-em-sp-e-genocidio.html
+
+"Ciclovia é um retrocesso. Em 1900, era trem. A bicicleta é dessa época. Veio carroça, veio trem, depois veio a bicicleta. Eu acho que estamos colocando os ciclistas em perigo nessas avenidas. Não fizemos uma coisa adequada. Jogar no meio dos carros é genocídio. Isso ainda vai acontecer."
 
 ### José Police Neto (PSD)
 
