@@ -8,25 +8,25 @@ Posicionamentos públicos dos vereadores de São Paulo a respeito do uso de bici
 Político  | Partido | Posicionamento 
 --------- | -------- | ------- | -----
 [Abou Anni](#abou-anni-pv)  |![foto de PV](http://codigourbano.org/wp-content/uploads/2015/07/pv.png) | ? :bike: :no_entry_sign:
-[Adilson Amadeu](#adilson-amadeu-ptb)  | PTA | ? :bike: :no_entry_sign:
-[Adolfo Quintas](#adolfo-quintas-psdb)  | PTA | ? :bike: :no_entry_sign:
+[Adilson Amadeu](#adilson-amadeu-ptb)  | ![foto de PTB](http://codigourbano.org/wp-content/uploads/2015/07/ptb.png)  | ? :bike: :no_entry_sign:
+[Adolfo Quintas](#adolfo-quintas-psdb)  | ![foto de PSDB]  (http://codigourbano.org/wp-content/uploads/2015/07/psdb.png)  | ? :bike: :no_entry_sign:
 [Alessandro Guedes](#alessandro-guedes-pt)  | PTA | ? :bike: :no_entry_sign:
 [Alfredinho](#alfredinho-pt)  | PTA | ? :bike: :no_entry_sign:
-[Andrea Matarazzo](#andrea-matarazzo-psdb)  | PTA | contra :no_entry_sign:
-[Anibal de Freitas](#anibal-de-freitas-psdb)  | PTA | ? :bike: :no_entry_sign:
+[Andrea Matarazzo](#andrea-matarazzo-psdb)  | ![foto de PSDB]  (http://codigourbano.org/wp-content/uploads/2015/07/psdb.png)  | contra :no_entry_sign:
+[Anibal de Freitas](#anibal-de-freitas-psdb)  | ![foto de PSDB]  (http://codigourbano.org/wp-content/uploads/2015/07/psdb.png)  | ? :bike: :no_entry_sign:
 [Antonio Donato](#antonio-donato-pt)  | PTA | ? :bike: :no_entry_sign:
 [Ari Friedenbach](#ari-friedenbach-pros)  | PTA | ? :bike: :no_entry_sign:
 [Arselino Tatto](#arselino-tatto-pt)  | PTA | ? :bike: :no_entry_sign:
 [Atilio Francisco](#atilio-francisco-prb)  | PTA | ? :bike: :no_entry_sign:
 [Aurélio Miguel](#aurélio-miguel-pr)  | PTA | ? :bike: :no_entry_sign:
-[Aurélio Nomura](#aurélio-nomura-psdb)  | PTA | ? :bike: :no_entry_sign:
+[Aurélio Nomura](#aurélio-nomura-psdb)  | ![foto de PSDB]  (http://codigourbano.org/wp-content/uploads/2015/07/psdb.png)  | ? :bike: :no_entry_sign:
 [Calvo](#calvo-pmdb)  | PTA | ? :bike: :no_entry_sign:
-[Claudinho de Souza](#claudinho-de-souza-psdb)  | PTA | ? :bike: :no_entry_sign:
+[Claudinho de Souza](#claudinho-de-souza-psdb)  | ![foto de PSDB]  (http://codigourbano.org/wp-content/uploads/2015/07/psdb.png)  | ? :bike: :no_entry_sign:
 [Conte Lopes](#conte-lopes-ptb)  | PTA | ? :bike: :no_entry_sign:
 [Dalton Silvano](#dalton-silvano-pv)  | PTA | ? :bike: :no_entry_sign:
 [David Soares](#david-soares-psd)  | PTA | ? :bike: :no_entry_sign:
 [Edir Sales](#edir-sales-psd)  | PTA | ? :bike: :no_entry_sign:
-[Eduardo Tuma](#eduardo-tuma-psdb)  | PTA | ? :bike: :no_entry_sign:
+[Eduardo Tuma](#eduardo-tuma-psdb)  | ![foto de PSDB]  (http://codigourbano.org/wp-content/uploads/2015/07/psdb.png)  | ? :bike: :no_entry_sign:
 [Eliseu Gabriel](#eliseu-gabriel-psb)  | PTA | ? :bike: :no_entry_sign:
 [George Hato](#george-hato-pmdb)  | PTA | ? :bike: :no_entry_sign:
 [Gilberto Natalini](#gilberto-natalini-pv)  | ![foto de PV](http://codigourbano.org/wp-content/uploads/2015/07/pv.png) | ? :bike: :no_entry_sign:
@@ -42,7 +42,7 @@ Político  | Partido | Posicionamento
 [Netinho de Paula](#netinho-de-paula-pdt)  | PTA | ? :bike: :no_entry_sign:
 [Noemi Nonato](#noemi-nonato-pros)  | PTA | ? :bike: :no_entry_sign:
 [Ota](#ota-pros)  | PTA | ? :bike: :no_entry_sign:
-[Patricia Bezerra](#patricia-bezerra-psdb)  | PTA | ? :bike: :no_entry_sign:
+[Patricia Bezerra](#patricia-bezerra-psdb)  | ![foto de PSDB]  (http://codigourbano.org/wp-content/uploads/2015/07/psdb.png)  | ? :bike: :no_entry_sign:
 [Paulo Fiorilo](#paulo-fiorilo-pt)  | PTA | ? :bike: :no_entry_sign:
 [Paulo Frange](#paulo-frange-pdt)  | PTA | ? :bike: :no_entry_sign:
 [Pastor Edemilson Chaves](#pastor-edemilson-chaves-pp)  | PTA | ? :bike: :no_entry_sign:
@@ -52,7 +52,7 @@ Político  | Partido | Posicionamento
 [Ricardo Teixeira](#ricardo-teixeira-pv)  | PTA | ? :bike: :no_entry_sign:
 [Ricardo Young](#ricardo-young-pps)  | PTA | ? :bike: :no_entry_sign:
 [Rodolfo Despachante](#rodolfo-despachante-phs)  | PTA | ? :bike: :no_entry_sign:
-[Salomão Pereira](#salomão-pereira-psdb)  | PTA | ? :bike: :no_entry_sign:
+[Salomão Pereira](#salomão-pereira-psdb)  | ![foto de PSDB]  (http://codigourbano.org/wp-content/uploads/2015/07/psdb.png)  | ? :bike: :no_entry_sign:
 [Sandra Tadeu](#sandra-tadeu-dem)  | PTA | ? :bike: :no_entry_sign:
 [Senival Moura](#senival-moura-pt)  | PTA | ? :bike: :no_entry_sign:
 [Souza Santos](#souza-santos-psd)  | PTA | ? :bike: :no_entry_sign:
@@ -325,7 +325,7 @@ Sem informações até o momento.
 
 ### Ricardo Teixeira (PV)
 
-![foto de Ricardo Teixeira](http://codigourbano.org/wp-content/uploads/2015/07/ricardo-teixeira.jpg) 
+![foto de Ricardo Teixeira](http://codigourbano.org/wp-content/uploads/2015/07/rteixeira2a.jpg) 
 
 Sem informações até o momento.
 
