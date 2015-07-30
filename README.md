@@ -78,7 +78,7 @@ Sem informações até o momento.
 Sem informações até o momento. 
 
 ### Adolfo Quintas (PSDB)
-![foto de Adolfo Quintas](http://codigourbano.org/wp-content/uploads/2015/07/adolfo-quintas.jpg) 
+![foto de Adolfo Quintas](http://codigourbano.org/wp-content/uploads/2015/07/adolfo.jpg) 
 
 Sem informações até o momento. 
 
@@ -94,19 +94,19 @@ Sem informações até o momento.
 
 ### Andrea Matarazzo (PSDB)
 
-![foto de Andrea Matarazzo](http://codigourbano.org/wp-content/uploads/2015/07/andrea-matarazzo.jpg) 
+![foto de Andrea Matarazzo](http://codigourbano.org/wp-content/uploads/2015/07/andrea-matarazzo1.jpg) 
 
 Sem informações até o momento. 
 
 ### Anibal de Freitas (PSDB)
 
-![foto de Anibal de Freitas](http://codigourbano.org/wp-content/uploads/2015/07/anibal-de-freitas.jpg) 
+![foto de Anibal de Freitas](http://codigourbano.org/wp-content/uploads/2015/07/anibal_freitas.jpg) 
 
 Sem informações até o momento. 
 
 ### Antonio Donato (PT)
 
-![foto de Alfredinho](http://codigourbano.org/wp-content/uploads/2015/07/alfredinho.jpg) 
+![foto de Donato](http://codigourbano.org/wp-content/uploads/2015/07/donato.jpg) 
 
 Sem informações até o momento.
 ### Político 3
