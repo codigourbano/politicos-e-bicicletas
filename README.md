@@ -94,7 +94,7 @@ Sem informações até o momento.
 
 ### Andrea Matarazzo (PSDB)
 
-![foto de Andrea Matarazzo](http://codigourbano.org/wp-content/uploads/2015/07/andrea-matarazzo1.jpg) 
+![foto de Andrea Matarazzo](http://codigourbano.org/wp-content/uploads/2015/07/Andrea-Matarazzo1) 
 
 Sem informações até o momento. 
 
@@ -109,64 +109,96 @@ Sem informações até o momento.
 ![foto de Donato](http://codigourbano.org/wp-content/uploads/2015/07/donato.jpg) 
 
 Sem informações até o momento.
-### Político 3
+
+### Ari Friedenbach (PROS)
+
+![foto de Ari Friedenbach](http://codigourbano.org/wp-content/uploads/2015/07/ari-friedenbach.jpg) 
+
 Sem informações até o momento. 
 
-### Político 3
+### Arselino Tatto (PT)
+
+![foto de Arselino Tatto](http://codigourbano.org/wp-content/uploads/2015/07/arselino-tatto.jpg) 
+
 Sem informações até o momento. 
 
+### Atilio Francisco (PRB)
 
-### Político 3
+![foto de Atilio Francisco](http://codigourbano.org/wp-content/uploads/2015/07/atilio-francisco.jpg) 
+
 Sem informações até o momento. 
 
+### Aurélio Miguel (PR)
 
-### Político 3
+![foto de Aurélio Miguel](http://codigourbano.org/wp-content/uploads/2015/07/aurelio-miguel.jpg) 
+
 Sem informações até o momento. 
 
-### Político 3
+### Aurélio Nomura (PSDB)
+
+![foto de Aurélio Nomura](http://codigourbano.org/wp-content/uploads/2015/07/aurelio-nomura.jpg) 
+
 Sem informações até o momento. 
 
+### Calvo (PMDB)
 
-### Político 3
+![foto de Calvo](http://codigourbano.org/wp-content/uploads/2015/07/calvo.jpg) 
+
 Sem informações até o momento. 
 
+### Claudinho de Souza (PSDB)
 
-### Político 3
+![foto de Claudinho de Souza](http://codigourbano.org/wp-content/uploads/2015/07/claudinho-de-souza.jpg) 
+
 Sem informações até o momento. 
 
-### Político 3
+### Conte Lopes (PTB)
+
+![foto de Conte Lopes](http://codigourbano.org/wp-content/uploads/2015/07/conte-lopes.jpg) 
+
 Sem informações até o momento. 
 
+### Dalton Silvano (PV)
 
-### Político 3
+![foto de Dalton Silvano](http://codigourbano.org/wp-content/uploads/2015/07/dalton-silvano.jpg) 
+
 Sem informações até o momento. 
 
+### David Soares (PSD)
 
-### Político 3
+![foto de David Soares](http://codigourbano.org/wp-content/uploads/2015/07/david-soares.jpg) 
+
 Sem informações até o momento. 
 
-### Político 3
+### Edir Sales (PSD)
+
+![foto de Edir Sales](http://codigourbano.org/wp-content/uploads/2015/07/edir-sales.jpg) 
+
 Sem informações até o momento. 
 
+### Eduardo Tuma (PSDB)
 
-### Político 3
+![foto de Eduardo Tuma](http://codigourbano.org/wp-content/uploads/2015/07/eduardo-tuma.jpg) 
+
 Sem informações até o momento. 
 
+### Eliseu Gabriel (PSB)
 
-### Político 3
+![foto de Eliseu Gabriel](http://codigourbano.org/wp-content/uploads/2015/07/eliseu-gabriel.jpg) 
+
 Sem informações até o momento. 
 
-### Político 3
+### George Hato (PMDB)
+
+![foto de George Hato](http://codigourbano.org/wp-content/uploads/2015/07/george-hato.jpg) 
+
 Sem informações até o momento. 
 
+### Gilson Barreto (PSDB)
 
-### Político 3
+![foto de Gilson Barreto](http://codigourbano.org/wp-content/uploads/2015/07/gilson-barreto.jpg) 
+
 Sem informações até o momento. 
-
-
-### Político 3
-Sem informações até o momento. 
-
 
 ### Gilberto Natalini (PV)
 
